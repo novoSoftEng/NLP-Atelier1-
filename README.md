@@ -3,7 +3,7 @@
 ## Objective
 The objective of this lab is to gain hands-on experience with web scraping and Natural Language Processing (NLP) techniques. The pipeline consists of:
 
-1. **Scraping Data:** Utilize Scrapy and Beautiful Soup to scrape data from Arabic web source bbc arabic.
+1. **Scraping Data:** I Utilized Beautiful Soup to scrape data from Arabic web source bbc arabic.
 ## Example Scraped Data
 ```json
 {
