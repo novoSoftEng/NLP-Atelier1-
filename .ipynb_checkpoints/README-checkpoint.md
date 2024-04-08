@@ -20,7 +20,9 @@ The objective of this lab is to gain hands-on experience with web scraping and N
     "أعلن الجيش الإسرائيلي الأحد أنه استكمل 'مرحلة أخرى' في إطار استعداداته 'للحرب' عند الحدود الشمالية مع لبنان حيث يستمر القصف المتبادل مع حزب الله، بينما قال إنه سحب كامل قواته من جنوبي قطاع غزة.",
     "وفي بيان بعنوان 'الاستعداد للانتقال من الدفاع إلى الهجوم' نشره الجيش الإسرائيلي، قال إنه 'خلال الأيام الأخيرة تم استكمال مرحلة أخرى من استعدادات قيادة المنطقة الشمالية للحرب'، موضحاً أن هذه التدابير اللوجستية تسمح بـ'التجنيد "
   ]
-}   
+}
+
+
 2. **Data Storage:** Store the raw scraped data in MongoDB, a NoSQL database.
    
 3. **NLP Pipeline:** Implement various NLP techniques:
@@ -38,7 +40,7 @@ The objective of this lab is to gain hands-on experience with web scraping and N
 
 ## Synthesis
 During this project, the following tasks were completed:
-- Web scraping was performed using Scrapy and Beautiful Soup to gather data from BBC arabic website.
+- Web scraping was performed using Beautiful Soup to gather data from BBC arabic website.
 - The raw scraped data was stored in MongoDB for further processing and analysis.
 - A comprehensive NLP pipeline was established, including text cleaning, tokenization, stop words removal,  and normalization.
 - Stemming and lemmatization techniques were applied to analyze their effectiveness in the Arabic language context.
