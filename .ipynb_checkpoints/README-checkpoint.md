@@ -21,7 +21,7 @@ The objective of this lab is to gain hands-on experience with web scraping and N
     "وفي بيان بعنوان 'الاستعداد للانتقال من الدفاع إلى الهجوم' نشره الجيش الإسرائيلي، قال إنه 'خلال الأيام الأخيرة تم استكمال مرحلة أخرى من استعدادات قيادة المنطقة الشمالية للحرب'، موضحاً أن هذه التدابير اللوجستية تسمح بـ'التجنيد "
   ]
 }
-
+```
 
 2. **Data Storage:** Store the raw scraped data in MongoDB, a NoSQL database.
    
